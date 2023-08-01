@@ -19,7 +19,6 @@ class StudentDetailpage extends StatelessWidget {
     double? quizscore = s.scores[1].score;
     String path = 'assets/Student_Images/s$id.png';
 
-
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,

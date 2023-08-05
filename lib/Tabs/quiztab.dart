@@ -64,6 +64,7 @@ class _QuiztabState extends State<Quiztab> {
                               ),
                           ),
                         ),
+                        Divider(thickness: 2,),
                       ],
                     ),
                   );

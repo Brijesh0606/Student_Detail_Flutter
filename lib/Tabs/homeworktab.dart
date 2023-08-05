@@ -65,6 +65,7 @@ class _HomeworktabState extends State<Homeworktab> {
                               ),
                           ),
                         ),
+                        Divider(thickness: 2,),
                       ],
                     ),
                   );

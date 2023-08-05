@@ -67,6 +67,7 @@ class _ExamtabState extends State<Examtab> {
                                   ),
                             ),
                           ),
+                          Divider(thickness: 2,),
                         ],
                       ),
                     );
